@@ -11,3 +11,5 @@ This project only modified the hardware but leaving the software (source code) i
 Documentation is available at  http://ediy.com.my/index.php/projects/item/135-diy-8x8x8-rgb-led-cube
 
 Flickr album: https://www.flickr.com/photos/ediy2u/albums/72157663117824245
+
+Youtube video: https://youtu.be/O3SzMkJ8tPI
