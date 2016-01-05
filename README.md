@@ -6,7 +6,7 @@ Thank you my friend Siew Goh Chuang, he made this beautiful LED cube:  This is a
 
 http://www.kevindarrah.com
 
-I only modified the hardware but leaving the software (source code) intact. All the source code is available in Kavindarrah's website.
+This project only modified the hardware but leaving the software (source code) intact. All the source code is available in Kavindarrah's website.
 
 Documentation is available at  http://ediy.com.my/index.php/projects/item/135-diy-8x8x8-rgb-led-cube
 
